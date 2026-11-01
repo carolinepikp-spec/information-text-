@@ -1,0 +1,6 @@
+{
+  "name": "InfoCraft - Student Information Text Layout Studio",
+  "description": "Ready-made information text layout builder for students with printable PDF generation, 3 distinct layout styles, two-picture column with captions, glossary, and real-time spelling and grammar error indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
